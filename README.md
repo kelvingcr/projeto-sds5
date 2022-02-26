@@ -9,5 +9,5 @@
 
 Link do projeto em Nuvem: https://dsvendas-kelvin.netlify.app/
 
-![Alt text]([https://i.imgur.com/HYoLgk4.png)
+![Alt text](https://i.imgur.com/HYoLgk4.png)
 
